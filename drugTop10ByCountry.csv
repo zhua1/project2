@@ -1,0 +1,134 @@
+Country,Drug,Values
+USA,Caffiene,543
+USA,Chocolate,538
+USA,Alcohol,518
+USA,Cannabis,488
+USA,Nicotine,428
+USA,Legal Highs,304
+USA,Benzodiazepine,294
+USA,Shrooms,264
+USA,Amphetamines,258
+USA,Ectasy,245
+USA,LSD,232
+USA,Methadone,220
+USA,Cocaine,197
+USA,Heroin,89
+USA,Ketamine,79
+USA,Volatile Substance Abuse,59
+USA,Crack,48
+USA,Amyl Nitrite,33
+USA,Placebo,2
+UK,Chocolate,1025
+UK,Caffiene,1003
+UK,Alcohol,969
+UK,Nicotine,437
+UK,Cannabis,307
+UK,Ectasy,159
+UK,Legal Highs,149
+UK,Benzodiazepine,147
+UK,Cocaine,132
+UK,Amphetamines,82
+UK,Ketamine,81
+UK,Shrooms,69
+UK,Amyl Nitrite,67
+UK,LSD,45
+UK,Methadone,44
+UK,Volatile Substance Abuse,16
+UK,Crack,11
+UK,Heroin,9
+UK,Placebo,0
+Republic of Ireland,Caffiene,20
+Republic of Ireland,Chocolate,20
+Republic of Ireland,Alcohol,18
+Republic of Ireland,Nicotine,18
+Republic of Ireland,Cannabis,15
+Republic of Ireland,Legal Highs,11
+Republic of Ireland,Ectasy,10
+Republic of Ireland,Amphetamines,9
+Republic of Ireland,Cocaine,8
+Republic of Ireland,Benzodiazepine,6
+Republic of Ireland,LSD,4
+Republic of Ireland,Methadone,3
+Republic of Ireland,Heroin,2
+Republic of Ireland,Ketamine,2
+Republic of Ireland,Shrooms,2
+Republic of Ireland,Volatile Substance Abuse,2
+Republic of Ireland,Amyl Nitrite,1
+Republic of Ireland,Crack,0
+Republic of Ireland,Placebo,0
+Other,Chocolate,117
+Other,Caffiene,115
+Other,Alcohol,112
+Other,Nicotine,88
+Other,Cannabis,87
+Other,LSD,49
+Other,Ectasy,43
+Other,Legal Highs,43
+Other,Shrooms,43
+Other,Benzodiazepine,33
+Other,Amphetamines,32
+Other,Cocaine,30
+Other,Ketamine,20
+Other,Methadone,18
+Other,Amyl Nitrite,12
+Other,Volatile Substance Abuse,7
+Other,Crack,6
+Other,Heroin,4
+Other,Placebo,0
+New Zealand,Alcohol,5
+New Zealand,Caffiene,5
+New Zealand,Chocolate,5
+New Zealand,Cannabis,4
+New Zealand,Legal Highs,4
+New Zealand,Amyl Nitrite,3
+New Zealand,Shrooms,3
+New Zealand,Benzodiazepine,2
+New Zealand,Cocaine,2
+New Zealand,LSD,2
+New Zealand,Methadone,2
+New Zealand,Nicotine,2
+New Zealand,Volatile Substance Abuse,2
+New Zealand,Ketamine,1
+New Zealand,Amphetamines,0
+New Zealand,Crack,0
+New Zealand,Ectasy,0
+New Zealand,Heroin,0
+New Zealand,Placebo,0
+Canada,Caffiene,85
+Canada,Chocolate,81
+Canada,Alcohol,74
+Canada,Cannabis,55
+Canada,Nicotine,52
+Canada,Ectasy,33
+Canada,Cocaine,31
+Canada,Benzodiazepine,30
+Canada,Legal Highs,30
+Canada,Shrooms,30
+Canada,Amphetamines,28
+Canada,Methadone,23
+Canada,LSD,19
+Canada,Ketamine,18
+Canada,Crack,12
+Canada,Heroin,11
+Canada,Amyl Nitrite,5
+Canada,Volatile Substance Abuse,3
+Canada,Placebo,0
+Australia,Chocolate,54
+Australia,Alcohol,53
+Australia,Caffiene,53
+Australia,Cannabis,43
+Australia,Nicotine,35
+Australia,LSD,29
+Australia,Amphetamines,27
+Australia,Ectasy,27
+Australia,Benzodiazepine,23
+Australia,Legal Highs,23
+Australia,Shrooms,23
+Australia,Cocaine,17
+Australia,Amyl Nitrite,12
+Australia,Methadone,10
+Australia,Ketamine,7
+Australia,Volatile Substance Abuse,6
+Australia,Heroin,3
+Australia,Crack,2
+Australia,Placebo,1
